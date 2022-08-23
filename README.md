@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [Резюме] (ссылка на pdf)
 
 # Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](ссылка на pdf)/[EN](ссылка на pdf)
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
 
 # Курсы:
 <table>
