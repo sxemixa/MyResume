@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Мое резюме:
-- [Резюме](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB.pdf)
+- [Резюме](https://github.com/sxemixa/sxemixa/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB.pdf)
 
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
@@ -29,6 +29,20 @@ Here are some ideas to get you started:
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <td>Завершен</td>
+</table>
+
+# Kaggle:
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+<tr>
+  <td><a href = "https://www.kaggle.com/c/titanic">Titanic - Machine Learning from Disaster(1 try)</a></td>
+  <td>Kaggle</td>
+  <td>Найти взаимосвзяь между данными, ответить для себя какие факторы влияют на целевой признак. Построить модель предсказания и дать небольшую визуализацию.</td>
+  <td>accuracy = 0.801</td>
 </table>
 
 # Проекты:
