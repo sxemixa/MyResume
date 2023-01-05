@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
 
+# Хаккатоны:
+ - [AgroCode Hack 2022](https://github.com/sxemixa/sxemixa/blob/main/AgroHack%202022.pdf)
+ 
 # Курсы:
 <table>
 <tr>
