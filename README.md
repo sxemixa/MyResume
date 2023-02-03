@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
 
-# Хаккатоны:
+# Хакатоны:
  - [AgroCode Hack 2022](https://github.com/sxemixa/sxemixa/blob/main/AgroHack%202022.pdf)
  
 # Курсы:
@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </table>
 
-# Kaggle:
+# Самостоятельные проекты:
+
+## Kaggle:
 <table>
 <tr>
   <th>Название проекта</th>
@@ -46,6 +48,20 @@ Here are some ideas to get you started:
   <td>Kaggle</td>
   <td>Найти взаимосвзяь между данными, ответить для себя какие факторы влияют на целевой признак. Построить модель предсказания и дать небольшую визуализацию.</td>
   <td>accuracy = 0.801</td>
+</table>
+
+## Пробные задания
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+<tr>
+  <td><a href = "https://github.com/sxemixa/banks_EDA-NLP-">Banks EDA (NLP)</a></td>
+  <td>Сбербанк</td>
+  <td>Необходимо провести EDA анализ банков, ответить на поставленные вопросы бизнеса, сделать соответствующие выводы.</td>
+  <td>Завершен</td>
 </table>
 
 # Учебные проекты:
