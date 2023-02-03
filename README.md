@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <td>accuracy = 0.801</td>
 </table>
 
-# Проекты:
+# Учебные проекты:
 ## Курсовые работы:
 <details open>
   <summary>Список проектов по теме</summary>
